@@ -1,16 +1,27 @@
-# React + Vite
+## JINGLE JOY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ JINGLE JOY is an interactive React web app that delivers personalized, heartwarming Christmas gifts and messages. Users enter their name, select a gift, and receive festive messages with animations, snow, lights, and holiday cheer. It's a fun and emotional way to spread happiness during the holiday season.
 
-Currently, two official plugins are available:
+ ## FEATURES
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Enter your name to receive a personalized Christmas gift.
+- Choose from a variety of magical gifts, each with a unique message.
+- Heartwarming messages, motivational notes, and short Christmas tales.
+- Animated snow, stars, lights, bells, and bouncing gift boxes.
+- Share your received gift on WhatsApp with a single click.
+- Interactive and visually engaging Christmas-themed UI.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## TECH STACK
 
-## Expanding the ESLint configuration
+ **React** – Frontend library for building the app.
+ **TailwindCSS** – Styling and animations.
+ **Lucide Icons** – Icons for gifts and decorations.
+ **Vite** – Development server and build tool.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## SETUP INSTRUCTIONS
+
+1. Clone the repository
+```bash
+git clone https://github.com/ThanhaMariyam/Jingle-Joy.git
+cd Santa
