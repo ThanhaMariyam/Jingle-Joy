@@ -432,7 +432,7 @@ const formattedUserName = capitalizeName(userName.trim());
 
               <button
   onClick={() => {
-    const shareText = `I just received "${selectedGift.name}" from Santa! Try it yourself at Santakku Oru App!`;
+    const shareText = `I just received "${selectedGift.name}" from Santa! Try it yourself at https://jingle-joy.vercel.app/`;
     const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(shareText)}`;
     window.open(whatsappUrl, '_blank'); // opens WhatsApp Web or app
   }}
