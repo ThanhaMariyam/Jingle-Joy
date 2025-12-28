@@ -276,7 +276,8 @@ const formattedUserName = capitalizeName(userName.trim());
         {/* Welcome Stage */}
         {stage === 'welcome' && (
           <div className="text-center animate-fade-in">
-            <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-6 sm:p-12 shadow-2xl border-4 border-yellow-300/50 max-w-md w-full mx-4">
+            <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-6 sm:p-12 shadow-2xl border-4 border-yellow-300/50 max-w-md w-full mx-auto">
+
               <img src={santa} className="w-40 text-yellow-300 mx-auto mb-6 " style={{ animationDuration: '3s' }} />
               
             <h2 className="text-4xl sm:text-5xl mb-6 text-center drop-shadow-lg animate-fade-in">
