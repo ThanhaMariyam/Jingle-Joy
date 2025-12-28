@@ -30,13 +30,13 @@ cd Santa
 ## SCREENSHOTS
 
 ## Welcome page
-![Welcome page](screenshots/welcomePage.png)
+![Welcome page](public/screenshots/welcomePage.png)
 
 ## Preparing gifts
-![Preparing gift](screenshots/preparingGift.png)
+![Preparing gift](public/screenshots/preparingGift.png)
 
 ## Select gifts
-![Select gifts](screenshots/selectGifts.png)
+![Select gifts](public/screenshots/selectGifts.png)
 
 ## Gift Reveal
-![Gift Reveal](screenshots/giftReveal.png)
+![Gift Reveal](public/screenshots/giftReveal.png)
