@@ -25,3 +25,17 @@
 ```bash
 git clone https://github.com/ThanhaMariyam/Jingle-Joy.git
 cd Santa
+
+## SCREENSHOTS
+
+## Welcome page
+![Welcome page](screenshots/welcomePage.png)
+
+## Preparing gifts
+![Preparing gift](screenshots/preparingGift.png)
+
+## Select gifts
+![Select gifts](screenshots/selectGifts.png)
+
+## Gift Reveal
+![Gift Reveal](screenshots/giftReveal.png)
