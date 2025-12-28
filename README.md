@@ -25,8 +25,7 @@
 ```bash
 git clone https://github.com/ThanhaMariyam/Jingle-Joy.git
 cd Santa
-
-```md
+```
 
 ## SCREENSHOTS
 
